@@ -1,27 +1,45 @@
-\documentclass{beamer}
+\documentclass[8pt]{beamer}
 \usepackage[utf8]{inputenc} 
 \usepackage[T1]{fontenc} 
-\usepackage{carlito} 
+\usepackage{carlito}
+\usepackage{ragged2e}
 \usetheme[horizontal=true, lang=pl]{NewPwr}
 
-\title{Junkers Flugzeug- und Motorenwerke}
+
+\title{
+	\centering
+		\includegraphics[scale=0.4]{images/junkers-logo.png}\\	
+		{\Huge{\textbf{Junkers Flugzeug- und Motorenwerke\\}}}
+	}
 \author{Paweł Łosowski}
-\titlegraphic{
-    \includegraphics[width=3cm]{images/junkers-logo.png}
-}
 
 \begin{document}
+
+
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 \begin{frame}
-    \titlepage
+	\titlepage
 \end{frame}
 
-\begin{frame}{Spis treści:}
-    \tableofcontents
+
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+\begin{frame}{\Huge{\textbf{Spis treści:}}}
+	\tableofcontents
 \end{frame}
+
+
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 \input{rozdzial1.tex}
 \input{rozdzial2.tex}
 \input{rozdzial3.tex}
 \input{rozdzial4.tex}
 \input{rozdzial5.tex}
+
 
 \end{document}
