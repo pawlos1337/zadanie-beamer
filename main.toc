@@ -1,13 +1,13 @@
-\beamer@sectionintoc {1}{ \textbf {Hugo Junkers}}{3}{0}{1}
+\beamer@sectionintoc {1}{\relax \fontsize {10}{10.95}\selectfont {\textbf {Hugo Junkers}}}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Biografia}{3}{0}{1}
-\beamer@sectionintoc {2}{\relax \fontsize {10}{10.95}\selectfont {\textbf {Junkers Ju 87}}}{7}{0}{2}
-\beamer@subsectionintoc {2}{1}{Początki}{7}{0}{2}
-\beamer@subsectionintoc {2}{2}{Ernst Udet}{8}{0}{2}
-\beamer@subsectionintoc {2}{3}{Warianty}{9}{0}{2}
-\beamer@sectionintoc {3}{\textbf {Junkers Ju 88}}{12}{0}{3}
-\beamer@subsectionintoc {3}{1}{Początki}{12}{0}{3}
-\beamer@subsectionintoc {3}{2}{Rozwój}{14}{0}{3}
-\beamer@subsectionintoc {3}{3}{Warianty}{16}{0}{3}
+\beamer@sectionintoc {2}{\relax \fontsize {10}{10.95}\selectfont {\textbf {Junkers Ju 87}}}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Początki}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Ernst Udet}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Warianty}{7}{0}{2}
+\beamer@sectionintoc {3}{\relax \fontsize {10}{10.95}\selectfont {\textbf {Junkers Ju 88}}}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Początki}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Rozwój}{11}{0}{3}
+\beamer@subsectionintoc {3}{3}{Warianty}{12}{0}{3}
 \beamer@sectionintoc {4}{Junkers Ju 248}{17}{0}{4}
 \beamer@subsectionintoc {4}{1}{Początki}{17}{0}{4}
 \beamer@subsectionintoc {4}{2}{Rozwój}{17}{0}{4}
