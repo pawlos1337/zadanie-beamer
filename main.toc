@@ -8,7 +8,7 @@
 \beamer@subsectionintoc {3}{1}{Początki}{10}{0}{3}
 \beamer@subsectionintoc {3}{2}{Rozwój}{11}{0}{3}
 \beamer@subsectionintoc {3}{3}{Warianty}{12}{0}{3}
-\beamer@sectionintoc {4}{Junkers Ju 248}{17}{0}{4}
+\beamer@sectionintoc {4}{\relax \fontsize {10}{10.95}\selectfont {\textbf {Junkers Ju 248}}}{17}{0}{4}
 \beamer@subsectionintoc {4}{1}{Początki}{17}{0}{4}
-\beamer@subsectionintoc {4}{2}{Rozwój}{17}{0}{4}
-\beamer@sectionintoc {5}{Bibliografia}{17}{0}{5}
+\beamer@subsectionintoc {4}{2}{Rozwój}{18}{0}{4}
+\beamer@sectionintoc {5}{\relax \fontsize {10}{10.95}\selectfont {\textbf {Bibliografia}}}{19}{0}{5}
